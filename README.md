@@ -17,7 +17,7 @@ Then once you have the ROM, drop it into the /switch/MarioKart64 folder.
 Once you have this, move everything to the root of your MicroSD (if you prefer, I've left an nsp file to open the Homebrew Menu with all the resources, or if you prefer, open a game by holding down the "R" button).
 
 Turn on your console, install the .NSP file, and open it. Once in the HB Menu, open the Spaghettify.nro file, and the game will launch.
-![HB Menu](HB Menu.png)
+![HBMenu](HB Menu.png)
 
 If you want to configure some parameters, hold down the "-" and "+" buttons at the same time.
 ![Settings](Settings.png)
